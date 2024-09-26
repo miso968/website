@@ -1,0 +1,9 @@
+body {
+    background-color: grey;
+}
+
+.img_coffe {
+    position: absolute;
+    top: 60px;
+    left: 350px;
+}
